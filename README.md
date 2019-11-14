@@ -1,5 +1,10 @@
 # EIP4
 
+The output of print(score) is
+
+# [0.03659808676887187, 0.9912] 
+
+
 ## Convolution 
 
 It is a process of multiplying two arrays of different length. These arrays are generally input pixels and kernel-filters.
